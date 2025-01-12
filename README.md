@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/abhaygill">
-    <img src="https://img.icons8.com/external-flat-wichaiwi/64/undefined/external-bush-fire-climate-change-flat-wichaiwi.png" alt="Logo" width="80" height="80"/> 
+    <img src="https://img.freepik.com/premium-vector/fire-mountain-logo-design-unique-concept-simple-style-premium-vector_632138-4140.jpg?ga=GA1.1.1288798671.1736712425&semt=ais_hybrid" alt="Logo" width="80" height="80"/> 
   </a>
 
 <h1 align="center">Wildlife Fire Prediction System</h1>
