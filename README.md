@@ -5,23 +5,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aravind9722">
+  <a href="https://github.com/abhaygill">
     <img src="https://img.icons8.com/external-flat-wichaiwi/64/undefined/external-bush-fire-climate-change-flat-wichaiwi.png" alt="Logo" width="80" height="80"/> 
   </a>
 
-<h3 align="center">Forest Fire Predictor</h3>
+<h1> align="center">Wildlife Fire Prediction System</h1>
 
   <p align="center">
     Machine Learning Project
     <br />
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/abhaygill/Wildlife-Fire-Prediction-System"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/app.py">View Flask app code</a>
-    ·
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-2%20Model.ipynb"> Model Building</a>
-    ·
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-1%20EDA.ipynb">EDA on Forest Fires dataset</a>
   </p>
 </div>
 
@@ -34,11 +29,7 @@
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
-## Deployed app
-[![Screenshot (10)](https://user-images.githubusercontent.com/97881558/171418344-52e4b748-069c-4731-a37f-7788a3db02db.png)
-](https://forest-fire-predictionv1.herokuapp.com/)
 
-[LINK TO HEROKU APP](https://forest-fire-predictionv1.herokuapp.com/)
 
 <!-- GETTING STARTED -->
 ## Introduction
