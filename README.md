@@ -37,27 +37,27 @@ The project utilizes the Algerian Forest Fires Dataset from UCI Machine Learning
 <!-- USAGE EXAMPLES -->
 ## Key Features
 
-### End-to-End Data Pipeline:
-Extracted and processed dataset from UCI.
-Data uploaded to MongoDB Atlas, integrated via pymongo.
+### 1. End-to-End Data Pipeline:
+* Extracted and processed dataset from UCI.
+* Data uploaded to MongoDB Atlas, integrated via pymongo.
 
-### Data Exploration and Insights:
-Conducted Exploratory Data Analysis (EDA) to uncover patterns influencing fire occurrences.
-Visualized key trends using Matplotlib and Seaborn.
+### 2. Data Exploration and Insights:
+* Conducted Exploratory Data Analysis (EDA) to uncover patterns influencing fire occurrences.
+* Visualized key trends using Matplotlib and Seaborn.
 
-### Machine Learning Models:
-Classification Task: Binary prediction (fire, not fire) using algorithms like Logistic Regression, Random Forest, and XGBoost.
-Regression Task: Predicting the Fire Weather Index (FWI) with models such as Ridge Regression, KNN Regressor, and Support Vector Regressor.
+### 3. Machine Learning Models:
+* Classification Task: Binary prediction (fire, not fire) using algorithms like Logistic Regression, Random Forest, and XGBoost.
+* Regression Task: Predicting the Fire Weather Index (FWI) with models such as Ridge Regression, KNN Regressor, and Support Vector Regressor.
 
-### Model Selection and Optimization:
-Fine-tuned models using Randomized GridSearch CV for hyperparameter optimization.
-Employed Stratified K-Fold Cross-Validation for robust evaluation in classification and R² score for regression tasks.
+### 4. Model Selection and Optimization:
+* Fine-tuned models using Randomized GridSearch CV for hyperparameter optimization.
+* Employed Stratified K-Fold Cross-Validation for robust evaluation in classification and R² score for regression tasks.
 
-### Web Application Deployment:
-Developed a Flask-based interface for user interaction.
-Deployed on Heroku, allowing real-time predictions via simple input forms.
+### 5. Web Application Deployment:
+* Developed a Flask-based interface for user interaction.
+* Deployed on Heroku, allowing real-time predictions via simple input forms.
 
-### Loading CSV and Inserting to DB
+### 6. Loading CSV and Inserting to DB
 * The Downloaded CSV file is loaded as pandas Dataframe using Pandas Library.
 * Pandas Dataframe is converted to Dict .
 * Mongodb Altas is used as DB here, with `pymongo library` mongodb is connected to python.
