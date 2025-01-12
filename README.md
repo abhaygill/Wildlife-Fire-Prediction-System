@@ -9,7 +9,7 @@
     <img src="https://img.icons8.com/external-flat-wichaiwi/64/undefined/external-bush-fire-climate-change-flat-wichaiwi.png" alt="Logo" width="80" height="80"/> 
   </a>
 
-<h1> align="center">Wildlife Fire Prediction System</h1>
+<h1 align="center">Wildlife Fire Prediction System</h1>
 
   <p align="center">
     Machine Learning Project
