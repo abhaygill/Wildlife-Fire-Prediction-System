@@ -12,7 +12,6 @@
   <p align="center">
     AMachine Learning Project
     <br />
-    <a href="https://github.com/abhaygill/Wildlife-Fire-Prediction-System"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
   </p>
