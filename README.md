@@ -10,7 +10,7 @@
 <h1 align="center">Wildlife Fire Prediction System</h1>
 
   <p align="center">
-    AMachine Learning Project
+    A Machine Learning Project
     <br />
     <br />
     <br />
